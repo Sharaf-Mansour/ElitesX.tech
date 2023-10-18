@@ -1,0 +1,5 @@
+﻿{
+  "Description": "Domain ownership verification file for Microsoft 365 - place in the website root",
+  "Domain": "elitesx.tech",
+  "Id": "2416ddf2-2ccb-4f71-9cc8-9ad954689e7c"
+}
